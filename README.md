@@ -1,5 +1,5 @@
 # NODOo.Java
-class Nodo {
+public class Nodo {
     int dato;
     Nodo anterior;
     Nodo siguiente;
